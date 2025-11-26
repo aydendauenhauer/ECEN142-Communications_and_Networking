@@ -1,0 +1,1 @@
+This repository contains my Lab 1 project for ECEN 142, where I used MATLAB to practice basic vector and matrix operations, plot sinusoids and shifted sinc functions, write loops and conditional logic (including a FizzBuzz script and an even/odd splitter function), and compute FFTs of composite cosine signals and an audio clip to examine their spectra.

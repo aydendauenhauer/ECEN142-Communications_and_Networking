@@ -1,0 +1,1 @@
+This repository contains my Lab 3 project for ECEN 142, where I used MATLAB Monte Carlo simulations to estimate bit, symbol, and block error rates for BPSK and QPSK over AWGN and a Jakes-modeled Rayleigh fading channel. The scripts sweep SNR, generate error-rate curves on a semilog scale, and compare performance with and without channel fading and coherent detection.
